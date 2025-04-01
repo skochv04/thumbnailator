@@ -1,4 +1,4 @@
-# 🖼️ Thumbnailator
+# 🖼️ Thumbnailator - Async Image Processing
 
 Image Compression Service, developed as part of the 5th semester of studies at AGH. Built with Spring WebFlux for the backend and ReactJS for the frontend, enabling fast generation of image thumbnails.
 
@@ -8,16 +8,21 @@ Image Compression Service, developed as part of the 5th semester of studies at A
 - **Katarzyna Lisiecka-Meller**
 
 ## 📌 Projects Overview:
+Thumbnailator is an asynchronous image processing service that enables users to upload, manage, and retrieve image thumbnails instantly. Built with Java Spring WebFlux, ReactJS, and Google Cloud, it ensures high performance and scalability.
+
 Image Compression Service allows users to efficiently **compress images into thumbnails**, featuring:
-✅ Fast and scalable image processing ⚡
-✅ Asynchronous request handling 🔄
-✅ User-friendly web interface 🌐
-✅ Support for multiple image formats 🖼️
+
+✅ Multi-image upload (supports PNG/JPG formats)  
+✅ Asynchronous processing of thumbnails in different sizes (small, medium, large)  
+✅ Instant access to processed thumbnails without waiting  
+✅ Full-size image preview and on-demand downloads  
+✅ Folder-based organization (create, delete, and move images between folders)  
+✅ Archive support (upload ZIP files, automatic extraction, and thumbnail generation)  
 
 Built with Spring WebFlux and ReactJS, it ensures high performance and responsiveness.
 
 **🛠️ Technologies Used:**
-- **Backend**: Spring WebFlux
+- **Backend**: Java + Spring WebFlux
 - **Frontend**: ReactJS  
 - **Database**: H2  
-- **Storage**: Google Cloud Storage
+- **Cloud Services**: Google Cloud
