@@ -10,7 +10,7 @@ Image Compression Service, developed as part of the 5th semester of studies at A
 ## 📌 Projects Overview:
 Thumbnailator is an asynchronous image processing service that enables users to upload, manage, and retrieve image thumbnails instantly. Built with Java Spring WebFlux, ReactJS, and Google Cloud, it ensures high performance and scalability.
 
-Image Compression Service allows users to efficiently **compress images into thumbnails**, featuring:
+Thumbnailator provides an efficient way to **compress and organize images** featuring:
 
 ✅ Multi-image upload (supports PNG/JPG formats)  
 ✅ Asynchronous processing of thumbnails in different sizes (small, medium, large)  
