@@ -28,7 +28,7 @@ Built with Spring WebFlux and ReactJS, it ensures high performance and responsiv
 - **Database**: H2  
 - **Cloud Services**: Google Cloud
 
-[![baner](baner.png)](https://youtu.be/5V80xosqOaE)
+[![baner](baner.png)](https://youtu.be/6R6HCzGG-Jo)
 
 ## 🚀 How to Run the simulation?
 
