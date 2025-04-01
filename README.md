@@ -26,3 +26,25 @@ Built with Spring WebFlux and ReactJS, it ensures high performance and responsiv
 - **Frontend**: ReactJS  
 - **Database**: H2  
 - **Cloud Services**: Google Cloud
+
+[![baner](baner.png)](https://youtu.be/5V80xosqOaE)
+
+## 🚀 How to Run the simulation?
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/skochv04/thumbnailator  
+cd repository
+```
+
+### 2️⃣ Run the backend server
+```bash
+cd thumbnailator
+.\gradlew bootRun
+```
+
+### 3️⃣ Run the frontend
+```bash
+cd thumbnailator/react-frontend
+npm start
+```
