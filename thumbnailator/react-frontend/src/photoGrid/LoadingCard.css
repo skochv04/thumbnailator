@@ -1,0 +1,10 @@
+.disabled {
+    background-color: gray;
+    color: white;
+    border: 1px solid #d0d0d0;
+    cursor: not-allowed;
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-size: 14px;
+    pointer-events: none;
+}
