@@ -30,7 +30,7 @@ Built with Spring WebFlux and ReactJS, it ensures high performance and responsiv
 
 [![baner](baner.png)](https://youtu.be/6R6HCzGG-Jo)
 
-## 🚀 How to Run the simulation?
+## 🚀 How to Run the Application?
 
 ### 1️⃣ Clone the Repository
 ```bash
